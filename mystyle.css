@@ -10,3 +10,15 @@ p {
     color:rgb(42, 25, 25)
    
 }
+
+h2 {
+    font-family: cursive;
+    color:rgb(64, 42, 42);
+}
+
+p {
+    font-family: cursive;
+    font-size: 20px;
+    color:rgb(42, 25, 25)
+   
+}
